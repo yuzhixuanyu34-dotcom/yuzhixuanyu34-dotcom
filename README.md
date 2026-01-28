@@ -12,11 +12,14 @@
 
 ## 🚀 关于我
 
-- 🔭 目前正在探索和学习新技术
-- 🌱 持续精进编程技能
+- 🎓 就读于 **深圳城市职业学院**，主修 **大数据应用技术**
+- 🤖 参与 **智能代理开发项目** | 大数据应用技术工作室
+- 🔗 参与 **LangChain 项目开发** | 百度飞桨领航团队
+- 💻 技能：Python、JavaScript、HTML/CSS、Git、GitHub
+- 🌱 目前专注于大数据分析、AI 应用开发
 - 💬 欢迎与我交流技术话题
 - ⚡ 热爱开源，乐于分享
-- 🎯 2026年目标：提升代码质量，参与更多开源项目
+- 🎯 2026年目标：深入学习 AI 技术，参与更多开源项目
 
 ---
 
@@ -63,6 +66,26 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
+
+---
+
+## 🎨 技能图标
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode,linux,docker,mysql,mongodb,nodejs,react,vue,flask,django&perline=8" />
+  </a>
+</p>
+
+---
+
+## 🎭 3D 贡献图
+
+<div align="center">
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
 
 ---
 
@@ -129,7 +152,8 @@ JavaScript   ██░░░░░░░░░░  15%    学习实践    ██
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuzhixuanyu34-dotcom&repo=awesome-project&theme=tokyonight)](https://github.com/yuzhixuanyu34-dotcom/awesome-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuzhixuanyu34-dotcom&repo=springmvc_demo1&theme=tokyonight)](https://github.com/yuzhixuanyu34-dotcom/springmvc_demo1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuzhixuanyu34-dotcom&repo=git_test&theme=tokyonight)](https://github.com/yuzhixuanyu34-dotcom/git_test)
 
 </div>
 
@@ -140,9 +164,9 @@ JavaScript   ██░░░░░░░░░░  15%    学习实践    ██
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuzhixuanyu34-dotcom)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Location](https://img.shields.io/badge/Location-深圳-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Shenzhen)
+[![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=c&logoColor=white)](https://blog.csdn.net/)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/)
 
 </div>
 
@@ -158,10 +182,46 @@ JavaScript   ██░░░░░░░░░░  15%    学习实践    ██
 
 ---
 
+## 🎮 贡献蛇蛇游戏
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuzhixuanyu34-dotcom/yuzhixuanyu34-dotcom/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuzhixuanyu34-dotcom/yuzhixuanyu34-dotcom/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuzhixuanyu34-dotcom/yuzhixuanyu34-dotcom/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 📅 今年的贡献
+
+<div align="center">
+
+[![GitHub Contribution Calendar](https://ghchart.rshah.org/2E9EF7/yuzhixuanyu34-dotcom)](https://github.com/yuzhixuanyu34-dotcom)
+
+</div>
+
+---
+
+## 🎵 最近在听
+
+<div align="center">
+
+[![Spotify](https://novatorem-yuzhixuanyu34-dotcom.vercel.app/api/spotify)](https://open.spotify.com/user/31xxxx)
+
+</div>
+
+---
+
 <div align="center">
 
 **✨ 感谢访问我的主页！欢迎 Star ⭐ 我的项目！**
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<sub>📍 深圳 | 🎓 大数据应用技术 | 💻 持续学习中</sub>
+
+![](https://hit.yhype.me/github/profile?user_id=yuzhixuanyu34-dotcom)
 
 </div>
