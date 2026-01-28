@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 你好，我是 YuzhiXuanyu34!
+# 👋 你好，我是 余芷萱（YuzhiXuanyu34）!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub%E4%B8%BB%E9%A1%B5!;%E7%83%AD%E7%88%B1%E7%BC%96%E7%A8%8B+%7C+%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0;%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE%E8%80%85)](https://git.io/typing-svg)
 
